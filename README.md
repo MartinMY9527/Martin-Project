@@ -230,3 +230,209 @@
 - 实现消息推送功能
 - 与汇付天下技术人员进行对接
 
+---
+
+# Project Experience (English)
+
+## 1. Jarvis
+Role: Front-end Engineer  
+Duration: 2025.03–2025.11
+
+Scope:
+- Bluetooth Transfer Module: Designed and built stable and secure BLE data transfer.
+- AI Parsing Module: Implemented AI-powered audio parsing to extract meeting minutes and todos.
+- Audio Processing Module: Handled audio upload and processing to balance quality and throughput.
+- File Upload Module: Built a cross-platform file upload pipeline.
+- Engineering Standards: Authored development and code conventions to ensure maintainability.
+- Componentization: Refined component design and modularized features to improve delivery efficiency.
+
+---
+
+## 2. AI Camera
+Role: Front-end Engineer  
+Duration: 2024.07–2025.02
+
+Responsibilities:
+- Project lead (team development).
+- Built core features including capture, image processing, and gallery; designed scalable architecture and iterated for maintainability.
+- Supported QA with functional and performance testing to ensure quality and stability.
+- Wrote development and code standards, component docs, module boundaries, and method annotations.
+
+Highlights:
+- Built project from scratch; designed networking with Retrofit + OkHttp for robust communications.
+- Adopted Kotlin + MVVM.
+- Performance optimization: memory/layout/code. Collaborated with UI to refine UX; user satisfaction improved by ~20%.
+- Developed crash management utilities; startup and weak-network optimizations; shared utility for other apps.
+
+---
+
+## 3. Parking Garage Mini Program
+Role: Uniapp Front-end Engineer  
+Duration: 2023.12–2024.07
+
+Responsibilities:
+- Project lead (team development) using Uniapp.
+- Delivered underground navigation, reverse car finding, and parking reservation.
+- Authored development standards, code conventions, component descriptions, and module layout.
+
+Highlights:
+- End-to-end Uniapp delivery from zero to production.
+- Integrated low-level Bluetooth operations for hardware control and deployment.
+- Indoor positioning: iOS via iBeacon; Android via Bluetooth.
+- Implemented underground navigation with WebView.
+
+---
+
+## 4. Deployment Tool Pro
+Role: Front-end Engineer  
+Duration: 2022.06–2024.07
+
+Responsibilities:
+- Project lead (team development).
+- Maintained the core Bluetooth library.
+- Assigned tasks to junior engineers; expanded new business modules; handled daily maintenance.
+
+Highlights:
+- BLE-based device deployment.
+- Organized projects/rooms/groups to streamline device control.
+- Built and evolved the underlying BLE library; supported device customization.
+
+---
+
+## 5. tink (Suning HK, Samsung Store App)
+Role: Android Engineer  
+Duration: 2021.01–2022.03
+
+Responsibilities:
+- Project lead (team development).
+- Greenfield Android architecture; continuous maintenance, iteration, version upgrades, and layout refactoring.
+
+Highlights:
+- Networking with Retrofit.
+- App configuration via SharedPreferences.
+- Integrated ZBar for QR scanning (order booking, quotation).
+- Used LocalBroadcastManager for component sync and app-wide state messaging.
+
+---
+
+## 6. Samsung App
+Role: iOS Engineer  
+Duration: 2021.01–2022.03
+
+Responsibilities:
+- Project lead (team development) for Samsung recycling machine app.
+- Iterative architecture improvements; API standards for higher readability of modules and utilities.
+- Authored development conventions and component/module docs.
+
+Highlights:
+- Swift app from scratch; MVVM architecture.
+- Integrated in-house SDK for hardware control.
+- Data processing via hook-style interception.
+- Built crash management utilities; startup and weak-network optimizations; reusable across apps.
+
+---
+
+## 7. Apple MTA Automated Phone Recycling Machine
+Role: Android Engineer  
+Duration: 2019.07–2021.12
+
+Overview:
+- Addressed growing demand for used phone recycling by delivering an automated MTA solution for efficient, high-quality service.
+
+Responsibilities:
+- One of the Android leads; built the Apple recycling machine app; iterated and optimized architecture.
+
+Highlights:
+- Full lifecycle Android delivery from zero to one.
+- Integrated custom SDK to operate MTA hardware.
+- Used RecyclerView with ViewHolder for SKU presentation.
+- Tackled major challenges: hardware compatibility, unstable/weak networks, unreliable uploads; documented approaches and fixes.
+
+---
+
+## 8. Daqi Management (Team Development)
+Role: iOS Engineer  
+Duration: 2018.03–2019.06
+
+Responsibilities:
+- Team member; delivered device, reporting, project address, and smart device modules.
+- Iterative architecture improvements; implemented based on PRD and shipped frequent updates.
+
+Highlights:
+- Evolved from 2.0 to 3.0 with a componentized architecture to improve efficiency.
+- Real-time device monitoring via Socket (anti-tilt alerts).
+- Applied runtime techniques to prevent crashes.
+- Post-login, used one-to-many delegation for page logic.
+- KVC + dynamic classes to enable CTMediator-like inter-module communication.
+- MVVM + RAC for efficient module development.
+- Performance tuning with Instruments.
+
+---
+
+## 9. Daoxila
+Role: iOS Engineer  
+Duration: 2017.03–2018.01
+
+Responsibilities:
+- Project owner; responsible for delivery and handoff to product for operations; optimization, testing, and iterations per PRD.
+
+Highlights:
+- Primarily Swift with Objective-C interop; system compatibility work.
+- Adaptive UI with Masonry and SnapKit.
+- Method swizzling with Runtime.
+- Used system APIs for in-app rating and reviews.
+- MJExtension for model mapping.
+- Managed Cookies and injected required Web parameters.
+
+---
+
+## 10. ANADA (Indie Development)
+Role: iOS Engineer  
+Duration: 2015.10–2018.01
+
+Responsibilities:
+- Communicated requirements in real time; daily summaries; quality control; App Store submission; optimization, testing, and iterations.
+
+Highlights:
+- Swift + Objective-C mixed codebase with system compatibility.
+- Encapsulated Qiniu upload utilities.
+- AMap POI keyword search for nearby places.
+- RongCloud IM for 1:1 real-time chat.
+- Integrated WeChat Pay and Alipay.
+- Apple IAP for membership/credits.
+- Media uploads with NotificationCenter to orchestrate Qiniu-backend interactions.
+- Encapsulated AVPlayer for user- and backend-uploaded media.
+- Local data caching via sandbox.
+
+---
+
+## 11. Wedding Freelancer
+Role: iOS Engineer  
+Duration: 2015.10–2018.01
+
+Responsibilities:
+- Project owner; delivery and product-led operations; optimization, testing, iteration.
+
+Highlights:
+- Pure Swift; adaptive UI with SnapKit.
+- System APIs for in-app rating and reviews.
+- FMDB for points/credits persistence.
+- Cookie handling with required Web parameters.
+
+---
+
+## 12. Dasheng Finance
+Role: iOS Engineer  
+Duration: 2015.03–2015.10
+
+Responsibilities:
+- Project owner; led product requirement discussions; tracked progress; owned core modules (reviews, red packets, lists); App Store submission; bug fixes and optimization.
+
+Highlights:
+- H5 integration and joint debugging; resolved login state consistency.
+- Persisted home/login/profile via local plist.
+- Gesture lock management and local sandbox storage.
+- Multithreading to avoid UI jank and duplicate requests.
+- Client-side encryption/decryption per backend spec.
+- Umeng analytics and push notifications.
+- Integrated with IPS/Chinapnr.
