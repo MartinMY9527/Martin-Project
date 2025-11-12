@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
 
-[中文文档](README_CN.md) | [English Documentation](README.md)
+[中文文档](README_ANOTHERME.md) | [English Documentation](README_ANOTHERME_EN.md)
 
 </div>
 
