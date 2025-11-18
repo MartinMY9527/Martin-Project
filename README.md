@@ -28,7 +28,33 @@
 
 ---
 
-## 2. RWA Frontend
+## 2. Another Me - 去中心化 AI 算力共享平台 官网
+**担任角色**：前端开发工程师  
+**项目周期**：2025.03-2025.11
+
+**项目概述**:
+去中心化 AI 算力共享平台官网，通过可视化方式展示"激活闲置设备算力，实现被动收益"的产品理念，为用户提供沉浸式的交互体验和产品教育。
+
+**个人职责**：
+- 负责前端架构设计，采用 React + MobX 构建单页应用
+- 设计并实现复杂滚动动画和交互效果，提升用户体验
+- 开发智能导航系统，实现滚动方向感知和区域激活状态管理
+- 配置 Docker + Nginx 生产环境部署流程，优化静态资源加载性能
+
+**技术要点**：
+- 使用 React 19 + React Router 7 构建多页面路由系统
+- 集成 GSAP + ScrollTrigger 实现滚动视差、文字粒子、方向感知按钮等复杂动画
+- 使用 Lottie 动画库加载 10+ 个高质量矢量动画，提升视觉吸引力
+- 采用 MobX 进行响应式状态管理，结合 Ant Design 5 快速构建 UI 组件
+- 配置 Axios 拦截器实现统一请求处理和错误管理
+- 使用 Craco 自定义 Create React App 配置，支持路径别名和 SCSS 预处理
+- 实现 requestAnimationFrame 节流优化滚动事件性能
+- 配置 Nginx Gzip 压缩和静态资源缓存策略，提升加载速度
+- 使用 Docker 多阶段构建优化镜像体积，实现容器化部署
+
+---
+
+## 3. RWA Frontend
 **担任角色**：前端开发工程师  
 **项目周期**：2025.09-2025.11
 
@@ -55,7 +81,7 @@
 
 ---
 
-## 3. Jarvis
+## 4. Jarvis
 **担任角色**：前端开发工程师  
 **项目周期**：2025.03-2025.11
 
@@ -84,7 +110,7 @@
 
 ---
 
-## 4. AI 拍照机
+## 5. AI 拍照机
 **担任角色**：前端开发工程师  
 **项目周期**：2024.07-2025.02
 
@@ -102,7 +128,7 @@
 
 ---
 
-## 5. 车库导航小程序
+## 6. 车库导航小程序
 **担任角色**：Uniapp 前端开发工程师  
 **项目周期**：2023.12-2024.07
 
@@ -120,7 +146,7 @@
 
 ---
 
-## 6. 部署工具 Pro
+## 7. 部署工具 Pro
 **担任角色**：前端开发工程师  
 **项目周期**：2022.06-2024.07
 
@@ -139,7 +165,7 @@
 
 ---
 
-## 7. tink（香港苏宁，三星门店 app）
+## 8. tink（香港苏宁，三星门店 app）
 **担任角色**：Android 开发工程师  
 **项目周期**：2021.01-2022.03
 
@@ -176,7 +202,7 @@
 
 ---
 
-## 9. 苹果 MTA 手机自动回收机
+## 10. 苹果 MTA 手机自动回收机
 **担任角色**：Android 开发工程师  
 **项目周期**：2019.07-2021.12
 
@@ -195,7 +221,7 @@
 
 ---
 
-## 10. 大器管理（团队开发）
+## 11. 大器管理（团队开发）
 **担任角色**：iOS 开发工程师  
 **项目周期**：2018.03-2019.06
 
@@ -216,7 +242,7 @@
   
 ---
 
-## 11. 到喜啦
+## 12. 到喜啦
 **担任角色**：iOS 开发工程师  
 **项目周期**：2017.03-2018.01
 
@@ -235,7 +261,7 @@
 
 ---
 
-## 12. ANADA（独立开发）
+## 13. ANADA（独立开发）
 **担任角色**：iOS 开发工程师  
 **项目周期**：2015.10-2018.01
 
@@ -261,7 +287,7 @@
 
 ---
 
-## 13. 婚礼自由人
+## 14. 婚礼自由人
 **担任角色**：iOS 开发工程师  
 **项目周期**：2015.10-2018.01
 
@@ -279,7 +305,7 @@
 
 ---
 
-## 14. 大圣理财
+## 15. 大圣理财
 **担任角色**：iOS 开发工程师  
 **项目周期**：2015.03-2015.10
 
@@ -334,7 +360,33 @@
 
 ---
 
-## 2. RWA Frontend
+## 2. Another Me - Decentralized AI Computing Power Sharing Platform Website
+**Role**: Front-end Engineer  
+**Duration**: 2025.03–2025.11
+
+**Project Overview**:
+Official website for a decentralized AI computing power sharing platform, visualizing the concept of "activating idle device computing power to achieve passive income," providing users with an immersive interactive experience and product education.
+
+**Responsibilities**:
+- Responsible for frontend architecture design, building single-page application with React + MobX
+- Designed and implemented complex scroll animations and interactive effects to enhance user experience
+- Developed intelligent navigation system with scroll direction awareness and section activation state management
+- Configured Docker + Nginx production environment deployment process, optimized static resource loading performance
+
+**Highlights**:
+- Built multi-page routing system with React 19 + React Router 7
+- Integrated GSAP + ScrollTrigger for complex animations including scroll parallax, text particles, and direction-aware buttons
+- Used Lottie animation library to load 10+ high-quality vector animations, enhancing visual appeal
+- Adopted MobX for reactive state management, combined with Ant Design 5 to quickly build UI components
+- Configured Axios interceptors for unified request handling and error management
+- Used Craco to customize Create React App configuration, supporting path aliases and SCSS preprocessing
+- Implemented requestAnimationFrame throttling to optimize scroll event performance
+- Configured Nginx Gzip compression and static resource caching strategy to improve loading speed
+- Used Docker multi-stage builds to optimize image size, achieving containerized deployment
+
+---
+
+## 3. RWA Frontend
 **Role**: Front-end Engineer  
 **Duration**: 2025.09–2025.11
 
@@ -361,7 +413,7 @@
 
 ---
 
-## 3. Jarvis
+## 4. Jarvis
 **Role**: Front-end Engineer  
 **Duration**: 2025.03–2025.11
 
@@ -389,9 +441,9 @@
 
 ---
 
-## 4. AI Camera
-Role: Front-end Engineer  
-Duration: 2024.07–2025.02
+## 5. AI Camera
+**Role**: Front-end Engineer  
+**Duration**: 2024.07–2025.02
 
 Responsibilities:
 - Project lead (team development).
@@ -407,7 +459,7 @@ Responsibilities:
 
 ---
 
-## 5. Parking Garage Mini Program
+## 6. Parking Garage Mini Program
 **Role**: Uniapp Front-end Engineer  
 **Duration**: 2023.12–2024.07
 
@@ -424,7 +476,7 @@ Responsibilities:
 
 ---
 
-## 6. Deployment Tool Pro
+## 7. Deployment Tool Pro
 **Role**: Front-end Engineer  
 **Duration**: 2022.06–2024.07
 
@@ -440,7 +492,7 @@ Responsibilities:
 
 ---
 
-## 7. tink (Suning HK, Samsung Store App)
+## 8. tink (Suning HK, Samsung Store App)
 **Role**: Android Engineer  
 **Duration**: 2021.01–2022.03
 
@@ -473,7 +525,7 @@ Responsibilities:
 
 ---
 
-## 9. Apple MTA Automated Phone Recycling Machine
+## 10. Apple MTA Automated Phone Recycling Machine
 **Role**: Android Engineer  
 **Duration**: 2019.07–2021.12
 
@@ -491,7 +543,7 @@ Responsibilities:
 
 ---
 
-## 10. Daqi Management (Team Development)
+## 11. Daqi Management (Team Development)
 **Role**: iOS Engineer  
 **Duration**: 2018.03–2019.06
 
@@ -510,7 +562,7 @@ Responsibilities:
 
 ---
 
-## 11. Daoxila
+## 12. Daoxila
 **Role**: iOS Engineer  
 **Duration**: 2017.03–2018.01
 
@@ -527,7 +579,7 @@ Responsibilities:
 
 ---
 
-## 12. ANADA (Indie Development)
+## 13. ANADA (Indie Development)
 **Role**: iOS Engineer  
 **Duration**: 2015.10–2018.01
 
@@ -547,7 +599,7 @@ Responsibilities:
 
 ---
 
-## 13. Wedding Freelancer
+## 14. Wedding Freelancer
 **Role**: iOS Engineer  
 **Duration**: 2015.10–2018.01
 
@@ -562,7 +614,7 @@ Responsibilities:
 
 ---
 
-## 14. Dasheng Finance
+## 15. Dasheng Finance
 **Role**: iOS Engineer  
 **Duration**: 2015.03–2015.10
 
